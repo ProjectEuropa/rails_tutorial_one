@@ -22,4 +22,10 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-# rails_tutorial_one
+# Ruby on Rails Tutorial
+
+## "hello, world!"
+
+This is the first application for the
+[*Ruby on Rails Tutorial*](http://railstutorial.jp/)
+by [Michael Hartl](http://www.michaelhartl.com/). Hello, world!
